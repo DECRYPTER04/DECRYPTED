@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+If you have found this, D, you know what is wrong. you know what you did. but you don't know who i am. You most likely never will. but you will never forget me. NEVER NEVER NEVER NEVER NEVER NEVER NEVER NEVER...
 
 [Link to another page](./another-page.html).
 
