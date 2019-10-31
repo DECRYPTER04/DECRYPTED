@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# You know what you did
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -62,12 +62,12 @@ end
 
 * * *
 
-### Here is an unordered list:
+### here is a list of your mistakes
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*   threats
+*   animal abuse
+*   framing
+*   blasphemy
 
 ### And an ordered list:
 
