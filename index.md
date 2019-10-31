@@ -4,7 +4,7 @@ layout: default
 
 If you have found this, D, you know what is wrong. you know what you did. but you don't know who i am. You most likely never will. but you will never forget me. NEVER NEVER NEVER NEVER NEVER NEVER NEVER NEVER...
 
-[Link to another page](./another-page.html).
+[CODE_BREAKER](https://decrypter04.github.io/DECRYPTED/CODE%20BREAKER.wav).
 
 There should be whitespace between paragraphs.
 
