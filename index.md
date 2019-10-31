@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # You know what you did
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+you have been a thorn in our side for years. expect me, or expect nothing
 
 ## Header 2
 
